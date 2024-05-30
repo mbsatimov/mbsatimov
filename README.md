@@ -1,7 +1,7 @@
 <h1 align="left">:wave: Hello there! I'm Mahkambek Satimov</h1>
 <br>
 
-Frontend Developer from Moscow 💅
+Frontend Developer
 
 - :blue_heart: &nbsp;I develop using **[TypeScript](https://www.typescriptlang.org/)**
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/mbsatimov)**
