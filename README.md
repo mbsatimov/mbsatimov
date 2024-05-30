@@ -114,20 +114,14 @@ Frontend Developer from Moscow 💅
       </a>
       <br>Redux
     </td>
-    <td align="center" width="110" height="90">
-      <a href="#mbsatimov-stack" >
-        <img src="https://i.ibb.co/MB4fxFC/react.png" width="36" height="36" alt="React Native" />
-      </a>
-      <br>React Native
-    </td>
-  </tr> 
-    <tr>
     <td align="center" width="110" height="90"> 
       <a href="#mbsatimov-stack" >
         <img src="https://raw.githubusercontent.com/AliMoallem27/AliMoallem27/main/images/react-query.png" width="36" height="36" alt="Apollo" />
       </a>
       <br>Tanstack Query
     </td>
+  </tr> 
+    <tr>
     <td align="center" width="110" height="90">
       <a href="#mbsatimov-stack">
         <img src="https://www.svgrepo.com/show/374061/sass.svg" width="36" height="36" alt="Sass" />
@@ -164,6 +158,19 @@ Frontend Developer from Moscow 💅
         <img src="https://image.shutterstock.com/display_pic_with_logo/224269211/2376072087/stock-vector-postgresql-logo-emblem-of-free-and-open-source-relational-database-management-system-2376072087.jpg" width="36" height="36" alt="Mongo DB" />
       </a>
       <br>PostgresSQL
+    </td>
+  </tr> 
+</table>
+
+> Mobile
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#mbsatimov-stack" >
+        <img src="https://i.ibb.co/MB4fxFC/react.png" width="36" height="36" alt="React Native" />
+      </a>
+      <br>React Native
     </td>
   </tr> 
 </table>
