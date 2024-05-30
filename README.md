@@ -114,6 +114,12 @@ Frontend Developer from Moscow 💅
       </a>
       <br>Redux
     </td>
+    <td align="center" width="110" height="90">
+      <a href="#mbsatimov-stack" >
+        <img src="https://i.ibb.co/MB4fxFC/react.png" width="36" height="36" alt="React Native" />
+      </a>
+      <br>React Native
+    </td>
   </tr> 
     <tr>
     <td align="center" width="110" height="90"> 
