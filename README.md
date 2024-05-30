@@ -149,13 +149,13 @@ Frontend Developer from Moscow 💅
   <tr>
     <td align="center" width="110" height="90"> 
       <a href="#mbsatimov-stack" >
-        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
+        <img src="https://brandeps.com/logo-download/J/Java-logo-vector-01.svg" width="36" height="36" alt="Node JS" />
       </a>
       <br>Java
     </td>
     <td align="center" width="110" height="90">
       <a href="#mbsatimov-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="Mongo DB" />
+        <img src="https://image.shutterstock.com/display_pic_with_logo/224269211/2376072087/stock-vector-postgresql-logo-emblem-of-free-and-open-source-relational-database-management-system-2376072087.jpg" width="36" height="36" alt="Mongo DB" />
       </a>
       <br>PostgresSQL
     </td>
